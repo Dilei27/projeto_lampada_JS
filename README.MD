@@ -1,4 +1,4 @@
-# Projeto em JavaScript
+# Projeto JavaScript
 
 ## 🚀 Lampada
 
@@ -9,7 +9,7 @@
 - [X] Quebra a Lampada com duplo click sobre a imagem.
 - [X] O Botão**[`Turn on/off`]()** muda de posição a cada vez que o cursor do mousa se aproxima.
 
-## **🚀 Base do Projeto** 
+## **🚀 Base do Projeto**
 
 * [X] JavaScript.
 * [X] CSS.
