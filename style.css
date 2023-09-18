@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 12px;
+    border: 1px solid #191818;
+    background: #191818;
+    color: #FFF;
+    outline: none;
+    font-size: 20px;
+    margin: 70px;
+}
+
+#myButton {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 50px;
+    border-radius: 12px;
+    border: 1px solid #191818;
+    background: #191818;
+    color: #FFF;
+    outline: none;
+    font-size: 20px;
+    margin: 70px;
+}
+
+#btn:hover {
+    background: #1f1e1e;
+    cursor: pointer;
+}
+
+h1 {
+    padding: 30px;
+    margin: 70px;
+}
+
+#lamp {
+    margin: 70px;
+}
